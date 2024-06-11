@@ -6,7 +6,7 @@ This repository contains the code and resources for a project focused on detecti
 
 - `detect.py`: Python script for detecting license plates using the trained YOLOv3 model.
 - `train.py`: Python script for training the YOLOv3 model on the license plate dataset.
-- `realvideo (1).mp4`: Sample video file for testing the license plate detection.
+- `realvideo (1).mp4`: Sample video file for tested model for the license plate detection.
 - `requirements (1).txt`: File containing the required dependencies for the project.
 
 ## Getting Started
